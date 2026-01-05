@@ -184,4 +184,5 @@ def check(n):
         return check(n//4)
     return False
 
+
 # print(check(0))
