@@ -4,7 +4,7 @@ This repository contains my implementations and solutions for the **DSA-II** cou
 
 ---
 
-## 📂 Topics Covered
+## Topics Covered
 
 ### 1. Recursion
 Solutions to problems that solve a base case and then call themselves with a smaller version of the problem.
@@ -33,5 +33,5 @@ Techniques for finding the most efficient way to travel between nodes in a netwo
 
 ---
 
-## 🛠️ Development Environment
+## Development Environment
 - **Language:** Python 
